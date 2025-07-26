@@ -24,26 +24,15 @@ Más detalles serán añadidos conforme avance el proyecto.
 - [Optimization](https://colab.research.google.com/drive/1_S92xdYCdu35RFl2gLcnjZtAk8534Yb9?usp=sharing)
 
 ### **Lecture 4: Neural Networks and Backpropagation**
-- 
-- 
+- CODIGO 1 
+   [MNIST – CNN - Transformer](https://colab.research.google.com/drive/1j4AzLbwydXKQDgVPFbtmjD2htqCkRd4g?usp=sharing)
+   [CIFAR‑100 – CNN - Transformer](https://colab.research.google.com/drive/18nw6Q-4AmriXQaYAZvpXgQlf7ILsopPm?usp=sharing)
+- cosigo 2    
+   [MNIST – CNN ]()
+   [CIFAR‑100 - Transformer](https://colab.research.google.com/drive/1LW5EwwAQadTdPp1yIJpo-KX0p72FXaBK?usp=sharing)
+   [MNIST – CNN ](https://colab.research.google.com/drive/1EarVmW7DG4kV2N4PMLSECageqoqjFari?usp=sharing)
+   [CIFAR‑100 - Transformer](https://colab.research.google.com/drive/1pQkoVoiNN9HFm1Xp4iF9yzElKLXzzeR1?usp=sharing)
 
-### **Lecture 5: Image Classification with CNNs**
-- 
-- 
-
-### **Lecture 6: CNN Architectures**
-- 
-- 
-
-### **Lecture 7: Recurrent Neural Networks**
-- 
-- _Limitaciones de los RNN y soluciones como LSTM y GRU_
-
-### **Lecture 8: Attention and Transformers**
-- 
-- 
-
----
 
 ## 🚀 Requisitos
 
