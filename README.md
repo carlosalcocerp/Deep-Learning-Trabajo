@@ -28,7 +28,7 @@ Más detalles serán añadidos conforme avance el proyecto.
 -  [MNIST – CNN - Transformer](https://colab.research.google.com/drive/1j4AzLbwydXKQDgVPFbtmjD2htqCkRd4g?usp=sharing)
 -  [CIFAR‑100 – CNN - Transformer](https://colab.research.google.com/drive/18nw6Q-4AmriXQaYAZvpXgQlf7ILsopPm?usp=sharing)
 - cosigo 2    
--   [MNIST – CNN ]()
+-   [MNIST – CNN ](https://colab.research.google.com/drive/1_7ZOp6gocpaqMDcwPD5WYl-dIuC1qx1l)
 - [CIFAR‑100 - Transformer](https://colab.research.google.com/drive/1LW5EwwAQadTdPp1yIJpo-KX0p72FXaBK?usp=sharing)
 -   [MNIST – CNN ](https://colab.research.google.com/drive/1EarVmW7DG4kV2N4PMLSECageqoqjFari?usp=sharing)
 -   [CIFAR‑100 - Transformer](https://colab.research.google.com/drive/1pQkoVoiNN9HFm1Xp4iF9yzElKLXzzeR1?usp=sharing)
