@@ -6,8 +6,8 @@ Este repositorio contiene enlaces a los notebooks utilizados durante el curso de
 
 ## 🔬 Trabajo Final
 
-Actualmente se está desarrollando un **trabajo final** cuyo tema está relacionado con el uso de **Transformers para tareas de visión por computadora**, explorando su capacidad para superar arquitecturas tradicionales como CNNs en clasificación de imágenes complejas y segmentación semántica.  
-Más detalles serán añadidos conforme avance el proyecto.
+ **Trabajo final** cuyo tema es CNN-ViT: A multi-feature learning based approach for driver drowsiness
+detection
 -[LINK:](https://drive.google.com/drive/folders/17pIh6WExT2nJo1S52UIqJeysVsokGYZ8)
 ---
 
