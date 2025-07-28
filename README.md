@@ -23,6 +23,8 @@ detection
 - [Optimización](https://colab.research.google.com/drive/1ffv3AzZKjgzQDASIHzJus04sDlfAoOhB?usp=sharing)
 - [Optimization](https://colab.research.google.com/drive/1_S92xdYCdu35RFl2gLcnjZtAk8534Yb9?usp=sharing)
 
+- [BackPropagation](https://colab.research.google.com/drive/1wnDb_pjShoHg6Ex5_NrTpiHeXxfOSj9y?usp=sharing)
+
 ### **Lecture 4: Neural Networks and Backpropagation**
 - CODIGO 1 
 -  [MNIST – CNN - Transformer](https://colab.research.google.com/drive/1j4AzLbwydXKQDgVPFbtmjD2htqCkRd4g?usp=sharing)
